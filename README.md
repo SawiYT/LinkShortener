@@ -16,6 +16,7 @@ Link Shortener is a modern web application that allows users to shorten URLs and
     <img src="public/login.png" style="width: 45%;" alt="photo gallery">
     <img src="public/dashboard.png" style="width: 48%;" alt="Blog Szkolny">
 </div>
+
 ## ℹ FAQ
 
 ### ❓ How does Link Shortener work?
